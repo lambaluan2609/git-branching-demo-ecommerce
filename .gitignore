@@ -1,0 +1,57 @@
+# =====================
+# Java
+# =====================
+*.class
+*.log
+hs_err_pid*
+
+# =====================
+# Build output
+# =====================
+/bin/
+/out/
+/target/
+/build/
+
+# =====================
+# IDE - IntelliJ IDEA
+# =====================
+.idea/
+*.iml
+
+# =====================
+# IDE - Eclipse
+# =====================
+.project
+.classpath
+.settings/
+
+# =====================
+# IDE - VS Code
+# =====================
+.vscode/
+
+# =====================
+# Maven
+# =====================
+dependency-reduced-pom.xml
+
+# =====================
+# Gradle
+# =====================
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Logs & temp
+# =====================
+*.tmp
+*.temp
+*.swp
