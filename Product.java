@@ -6,6 +6,9 @@ public class Product {
     // public List<Product> getProducts() {
     // return //caigido;
     // }
+    // them whistlist moi
+    // code cai gi do o day    
+    // toi uu query load product
 
     //fix bug
 }
