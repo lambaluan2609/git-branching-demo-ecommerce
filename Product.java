@@ -7,8 +7,9 @@ public class Product {
     // return //caigido;
     // }
     // them whistlist moi
-    // code cai gi do o day    
+    // code cai gi do o day
     // toi uu query load product
+    //fix product bug
 
 }
 // code cg do
