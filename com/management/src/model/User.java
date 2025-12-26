@@ -1,5 +1,5 @@
 package com.management.model;
 
 public class User {
-    
+    // Ready to release.
 }
